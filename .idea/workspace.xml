@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c01b54fc-5b4c-4314-bb7c-4b75e66cabc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/form/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/form/states.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/list/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/courses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/students.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prints/Captura de Tela 2020-03-03 às 23.37.37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prints/Captura de Tela 2020-03-03 às 23.37.42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prints/Captura de Tela 2020-03-03 às 23.37.45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prints/Captura de Tela 2020-03-03 às 23.37.55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prints/Captura de Tela 2020-03-03 às 23.38.29.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +41,9 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prints" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/store" />
       <recent name="$PROJECT_DIR$/src/components" />
@@ -76,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583275347587</updated>
-      <workItem from="1583275348933" duration="12348000" />
+      <workItem from="1583275348933" duration="12529000" />
     </task>
     <servers />
   </component>
